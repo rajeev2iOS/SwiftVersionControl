@@ -25,24 +25,13 @@ class ViewController: UIViewController {
         
         print("My branch nagarjuna")
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-<<<<<<< HEAD
          print("My Branch 4 is yet to created")
-=======
-        // *_* *_* *_* *_* *_*
->>>>>>> f0da961e8ef89862c20ef9bbacff08ad1492d94b
-=======
-        // *_* *_* *_* *_* *_*
->>>>>>> f0da961e8ef89862c20ef9bbacff08ad1492d94b
-=======
+
         print("My Branch 4 is yet to created")
->>>>>>> mybranch4
         
         print("am back with my commits, lol ")
 
-        // *_* *_* *_* *_* *_* 
 }
 
     override func didReceiveMemoryWarning() {
