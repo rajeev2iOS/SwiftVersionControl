@@ -9,15 +9,15 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+@IBOutlet var someLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
         print("first branch")
         print("first branch2")
-        print("shabista branch2")
-
+       
+   self.someLabel.text = "xyz"
 
 }
 
