@@ -19,8 +19,15 @@ class ViewController: UIViewController {
        
    self.someLabel.text = "xyz"
         print("My branch 2")
+<<<<<<< HEAD
         print("My Branch 3")
+=======
+        
+        print("My branch nagarjuna")
+>>>>>>> 304e6a5354f6512de89182db9e1622591de24d96
 
+        
+        
 }
 
     override func didReceiveMemoryWarning() {
