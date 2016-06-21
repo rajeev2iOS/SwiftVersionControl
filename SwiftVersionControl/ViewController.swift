@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         print("first branch")
         
         print("first branch2")
+
         
         print("My new changes in mybranch2")
         
@@ -24,6 +25,10 @@ class ViewController: UIViewController {
         
         self.someLabel.text = "xyz"
         
+        print("My new changes in mybranch2222")
+        
+        self.someLabel.text = "xyz"
+
         print("My branch 2")
         
         print("My branch 3 new changes are done")
@@ -36,6 +41,7 @@ class ViewController: UIViewController {
         
         print("My Branch 4 is yet to created")
         
+
         print("My Branch 4 is yet to created")
         
         print("am back with my commits, lol ")
@@ -49,6 +55,8 @@ class ViewController: UIViewController {
         print("Master changes")
         
         print("rajeev branch 3 changes");
+        print("My Branch 4 for UNDO")
+
         
 }
 
