@@ -16,11 +16,11 @@ class ViewController: UIViewController {
         
         print("first branch")
         print("first branch2")
-<<<<<<< HEAD
+
        print("My new changes in mybranch2")
-=======
+
        print("The New Changes in new branchesssss")
->>>>>>> Shabista
+
    self.someLabel.text = "xyz"
         print("My branch 2")
 
