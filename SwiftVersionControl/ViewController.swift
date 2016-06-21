@@ -22,9 +22,14 @@ class ViewController: UIViewController {
        print("The New Changes in new branchesssss")
 
    self.someLabel.text = "xyz"
+<<<<<<< HEAD
         print("My branch 2")
 
+=======
+        print("My branch 3 new changes are done")
+>>>>>>> mybranch3
         print("My Branch 3")
+         print("first branch")
 
         
         print("My branch nagarjuna")
